@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ros-industrial/ccmslam_ws/devel/.private/ccmslam/setup.sh

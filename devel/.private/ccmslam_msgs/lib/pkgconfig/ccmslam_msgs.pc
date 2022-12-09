@@ -1,0 +1,8 @@
+prefix=/home/ros-industrial/ccmslam_ws/devel/.private/ccmslam_msgs
+
+Name: ccmslam_msgs
+Description: Description of ccmslam_msgs
+Version: 1.0.0
+Cflags: -I/home/ros-industrial/ccmslam_ws/devel/.private/ccmslam_msgs/include
+Libs: -L/home/ros-industrial/ccmslam_ws/devel/.private/ccmslam_msgs/lib 
+Requires: message_runtime
