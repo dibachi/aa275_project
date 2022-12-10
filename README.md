@@ -1,2 +1,2 @@
 # aa275_project
- 
+This repo is the codebase used for our AA275 Final Project, where we implement CCM-SLAM on a virtual machine to experiment with changes in optimization parameters, communications, and feature extraction to examine the impact on agent tracking and positioning error. CCM-SLAM client and server nodes are run on ROS using the code in https://github.com/VIS4ROB-lab/ccm_slam. Robot sensor data and ground truth data are obtained from the EuRoC Machine Hall Dataset from https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets, and data is processed and visualized using the evo package https://github.com/MichaelGrupp/evo. 
