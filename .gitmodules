@@ -1,0 +1,2 @@
+[submodule "src/ccm_slam"]
+	url = https://github.com/dibachi/ccm_slam
